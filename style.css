@@ -1,0 +1,14 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+button {
+    margin-top: 10px;
+}
+
+#favoriteLocations {
+    margin-top: 20px;
+    text-align: left;
+}
