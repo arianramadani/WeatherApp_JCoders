@@ -36,4 +36,6 @@ async function init() {
     weather.displayWeather(weatherData, 'weatherDisplay');
 }
 
+//Hello
+
 init();
